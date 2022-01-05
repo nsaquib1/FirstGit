@@ -1,0 +1,16 @@
+public class FirstGit {
+
+public static void main(String[] args) {
+
+}
+
+public void methodA() {
+System.out.println("This is changes from upstream, upstream means in remote repository"); 
+}
+
+public void methodB() {
+//this is the secon dmethod for practice purpose.
+}
+
+
+}
